@@ -1,5 +1,5 @@
 {
-  description = "Rory nixpkgs"
+  description = "Rory nixpkgs";
 
   outputs = { self }: {
   };
